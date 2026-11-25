@@ -1,12 +1,12 @@
-﻿{
-  "name": "ai-agent-kit",
+{
+  "name": "ecc",
   "interface": {
-    "displayName": "AI Agent Kit"
+    "displayName": "ECC"
   },
   "plugins": [
     {
-      "name": "ai-agent-kit",
-      "version": "1.0.0",
+      "name": "ecc",
+      "version": "2.2.3",
       "source": {
         "source": "local",
         "path": "./"
